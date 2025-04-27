@@ -61,12 +61,6 @@ cd server && npm start  # for Node backend
 
 [Coming Soon]
 
-## 📸 Screenshots
-
-<!-- Add images/screenshots here -->
-![Screenshot1](link-to-screenshot)
-![Screenshot2](link-to-screenshot)
-
 ## 👨‍💻 Author
 
 - **Sagar Panchal** - [GitHub](https://github.com/SagarP2)
@@ -74,10 +68,6 @@ cd server && npm start  # for Node backend
 ## 📩 Contact
 
 Design and Development by [Priyanshu Patel](https://princeportfolio-6yav7ijxn-priyanshupatel1253-gmailcoms-projects.vercel.app/) & [Sagar Panchal](https://sagarp2.github.io/SagarPanchal/)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
