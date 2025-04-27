@@ -106,26 +106,20 @@ const Footer = () => {
 
           <div className="footer-bottom">
             <span>
-              All © 2024 RabbitCode. All Rights Reserved by RabbitCode.
+              All © 2024 RabbitCode. All rights reserved.
             </span>
 
-            <div className="powerby">
-              <span>
-              Design and Development by &nbsp;
-              <a
-                className="contact-email"
-                href="https://princeportfolio-6yav7ijxn-priyanshupatel1253-gmailcoms-projects.vercel.app/"
-              >
-                Priyanshu Patel
-              </a>{" "}
-              &nbsp; & &nbsp;
-              <a
-                className="contact-email"
-                href="https://sagarp2.github.io/SagarPanchal/"
-              >
-                Sagar Panchal
-              </a>
-              </span>
+            <div className="powerby" style={{ color: "white" }}>
+              
+                Design and Development by &nbsp;
+                <a  style={{ color: "white" }} href="https://princeportfolio-6yav7ijxn-priyanshupatel1253-gmailcoms-projects.vercel.app/">
+                  Priyanshu Patel
+                </a>
+                &nbsp; & &nbsp;
+                <a  style={{ color: "white" }} href="https://sagarp2.github.io/SagarPanchal/">
+                  Sagar Panchal
+                </a>
+              
             </div>
             <div className="made-with-love">
               <span>Made with 💜</span>
