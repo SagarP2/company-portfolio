@@ -1,0 +1,65 @@
+{
+  "id": 10,
+  "videos": {
+    "banner": "/Videos/DivinityFashion.mp4"
+  },
+  "image": "/Image/DivinityFashion.png",
+  "publishedYear": 2024,
+  "title": "Divinity Fashion",
+  "subtitle": "Trendy and Affordable Clothing",
+  "description": "Divinity Fashion offers a diverse range of stylish clothing, including dresses, coats, and accessories, designed to elevate your wardrobe at affordable prices.",
+  "officialWebsiteLink": "https://divinity-fashion.com/",
+  "services": [
+    "Free Express Delivery on Orders Over €49",
+    "6 Days Easy Return",
+    "24/7 Customer Support"
+  ],
+  "industries": [
+    "Fashion Retail",
+    "E-Commerce",
+    "Apparel"
+  ],
+  "foundationTitle": "Empowering Personal Style",
+  "foundationDescription": "Focused on helping individuals reinvent their wardrobe with handpicked, fashionable selections.",
+  "foundationTitleTwo": "Quality and Affordability",
+  "foundationDescriptionTwo": "Committed to offering quality clothing at competitive prices, ensuring customer satisfaction.",
+  "images": {
+    "logo": "/Image/DivinityFashion_logo.png",
+    "banner": "/Image/DivinityFashion_banner.png",
+    "last": "/Image/DivinityFashion_last.png",
+    "gallery1": "/Image/DivinityFashion_new1.png",
+    "gallery2": "/Image/DivinityFashion_new2.png",
+    "gallery3": "/Image/DivinityFashion_new3.png",
+    "gallery4": "/Image/DivinityFashion_new4.png",
+    "gallery5": "/Image/DivinityFashion_new5.png",
+    "gallery6": "/Image/DivinityFashion_new6.png",
+    "gallery7": "/Image/DivinityFashion_new7.png",
+    "gallery8": "/Image/DivinityFashion_new8.png",
+    "gallery9": "/Image/DivinityFashion_new9.png",
+    "gallery10": "/Image/DivinityFashion_new10.png",
+    "gallery11": "/Image/DivinityFashion_new11.png",
+    "gallery": [
+      "/Image/DivinityFashion_gallery1.png",
+      "/Image/DivinityFashion_gallery2.png"
+    ],
+    "gallery12": [
+      "/Image/DivinityFashion_new5.png",
+      "/Image/DivinityFashion_new6.png"
+    ],
+    "gallery13": [
+      "/Image/DivinityFashion_new7.png",
+      "/Image/DivinityFashion_new8.png"
+    ],
+    "gallery14": [
+      "/Image/DivinityFashion_new9.png",
+      "/Image/DivinityFashion_new10.png"
+    ]
+  },
+  "projectDescription": "A vibrant online store specializing in trendy clothing that resonates with modern fashion enthusiasts.",
+  "descriptionTitle": "Discover Your Style",
+  "Descriptiontwo": "Browse our exclusive collections designed to inspire and empower your unique fashion sense.",
+  "descriptionTitleThree": "Shop with Confidence",
+  "Descriptionthree": "Enjoy a hassle-free shopping experience with secure payment options and a customer-friendly return policy.",
+  "descriptionTitleFour": "Fashion Forward",
+  "Descriptionfour": "Stay ahead of trends with our latest arrivals and seasonal collections."
+}

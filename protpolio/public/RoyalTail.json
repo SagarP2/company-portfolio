@@ -1,0 +1,65 @@
+{
+  "id": 11,
+  "videos": {
+    "banner": "/Videos/RoyalTail.mp4"
+  },
+  "image": "/Image/RoyalTail.png",
+  "publishedYear": 2024,
+  "title": "Royal Tail Fashion",
+  "subtitle": "Innovative and Affordable Fashion",
+  "description": "Royal Tail is committed to delivering innovation and convenience in fashion, offering a wide range of clothing and eyewear tailored to customer satisfaction.",
+  "officialWebsiteLink": "https://royaltail.in/",
+  "services": [
+    "Fashion Retail",
+    "Eyewear",
+    "Apparel for Men"
+  ],
+  "industries": [
+    "Fashion",
+    "E-Commerce",
+    "Retail"
+  ],
+  "foundationTitle": "Quality and Affordability",
+  "foundationDescription": "We focus on listing the best and most affordable items to ensure customer satisfaction and happiness.",
+  "foundationTitleTwo": "Customer Satisfaction Guarantee",
+  "foundationDescriptionTwo": "Enjoy 100% free shipping and a satisfaction guarantee on all purchases, ensuring a positive shopping experience.",
+  "images": {
+    "logo": "/Image/RoyalTail_logo.png",
+    "banner": "/Image/RoyalTail_banner.png",
+    "last": "/Image/RoyalTail_last.png",
+    "gallery1": "/Image/RoyalTail_new1.png",
+    "gallery2": "/Image/RoyalTail_new2.png",
+    "gallery3": "/Image/RoyalTail_new3.png",
+    "gallery4": "/Image/RoyalTail_new4.png",
+    "gallery5": "/Image/RoyalTail_new5.png",
+    "gallery6": "/Image/RoyalTail_new6.png",
+    "gallery7": "/Image/RoyalTail_new7.png",
+    "gallery8": "/Image/RoyalTail_new8.png",
+    "gallery9": "/Image/RoyalTail_new9.png",
+    "gallery10": "/Image/RoyalTail_new10.png",
+    "gallery11": "/Image/RoyalTail_new11.png",
+    "gallery": [
+      "/Image/RoyalTail_gallery1.png",
+      "/Image/RoyalTail_gallery2.png"
+    ],
+    "gallery12": [
+      "/Image/RoyalTail_new5.png",
+      "/Image/RoyalTail_new6.png"
+    ],
+    "gallery13": [
+      "/Image/RoyalTail_new7.png",
+      "/Image/RoyalTail_new8.png"
+    ],
+    "gallery14": [
+      "/Image/RoyalTail_new9.png",
+      "/Image/RoyalTail_new10.png"
+    ]
+  },
+  "projectDescription": "Royal Tail offers a curated selection of trendy products, including sunglasses, shirts, and more.",
+  "descriptionTitle": "Explore Our Collection",
+  "Descriptiontwo": "Discover the latest fashion trends designed for modern lifestyles.",
+  "descriptionTitleThree": "Fashion for Everyone",
+  "Descriptionthree": "From stylish eyewear to casual apparel, we have something for every fashion enthusiast.",
+  "descriptionTitleFour": "Shop with Confidence",
+  "Descriptionfour": "Experience hassle-free shopping with our customer support and easy return policy."
+}

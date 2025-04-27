@@ -1,0 +1,65 @@
+{
+  "id": 3,
+  "videos": {
+    "banner": "/Videos/signorvino.mp4"
+  },
+  "image": "/Image/signorvino.png",
+  "publishedYear": 2024,
+  "title": "SignorVino Website",
+  "subtitle": "Wine Retail & Experience",
+  "description": "SignorVino specializes in Italian wine retail and experiences, offering curated wine collections, tastings, and culinary pairings.",
+  "officialWebsiteLink": "https://www.signorvino.com/it/",
+  "services": [
+    "Wine Retail",
+    "Wine Tastings",
+    "Culinary Pairings"
+  ],
+  "industries": [
+    "Retail",
+    "E-Commerce",
+    "Wine & Spirits"
+  ],
+  "foundationTitle": "Discover the Best of Italian Wines",
+  "foundationDescription": "SignorVino showcases the rich heritage of Italian winemaking through a comprehensive selection of wines and immersive tasting experiences.",
+  "foundationTitleTwo": "A Journey Through Italian Vineyards",
+  "foundationDescriptionTwo": "Explore a variety of wines with expert guidance, bringing the best of Italy to your table.",
+  "images": {
+    "logo": "/Image/signorvino_logo.png",
+    "banner": "/Image/signorvino_banner.png",
+    "last": "/Image/signorvino_last.png",
+    "gallery1": "/Image/signorvino_new1.png",
+    "gallery2": "/Image/signorvino_new2.png",
+    "gallery3": "/Image/signorvino_new3.png",
+    "gallery4": "/Image/signorvino_new4.png",
+    "gallery5": "/Image/signorvino_new5.png",
+    "gallery6": "/Image/signorvino_new6.png",
+    "gallery7": "/Image/signorvino_new7.png",
+    "gallery8": "/Image/signorvino_new8.png",
+    "gallery9": "/Image/signorvino_new9.png",
+    "gallery10": "/Image/signorvino_new10.png",
+    "gallery11": "/Image/signorvino_new11.png",
+    "gallery": [
+      "/Image/signorvino_gallery1.png",
+      "/Image/signorvino_gallery2.png"
+    ],
+    "gallery12": [
+      "/Image/signorvino_new5.png",
+      "/Image/signorvino_new6.png"
+    ],
+    "gallery13": [
+      "/Image/signorvino_new7.png",
+      "/Image/signorvino_new8.png"
+    ],
+    "gallery14": [
+      "/Image/signorvino_new9.png",
+      "/Image/signorvino_new10.png"
+    ]
+  },
+  "projectDescription": "A unique retail experience with a focus on wine education, pairing, and enjoyment.",
+  "descriptionTitle": "Wine for Every Occasion",
+  "Descriptiontwo": "Select from a vast range of wines, from everyday selections to premium choices, perfect for any event.",
+  "descriptionTitleThree": "Culinary Delights",
+  "Descriptionthree": "Enjoy expertly paired dishes with selected wines at our restaurants across Italy.",
+  "descriptionTitleFour": "Unforgettable Tastings",
+  "Descriptionfour": "Experience wine tastings that highlight the diverse regions and styles of Italian wines."
+}

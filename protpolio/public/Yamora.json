@@ -1,0 +1,65 @@
+{
+  "id": 12,
+  "videos": {
+    "banner": "/Videos/Yamora.mp4"
+  },
+  "image": "/Image/Yamora.png",
+  "publishedYear": 2023,
+  "title": "Yamora",
+  "subtitle": "Your Destination for Fine Jewelry",
+  "description": "Yamora specializes in high-quality fine silver and gold jewelry, offering exquisite designs and personalization options to enhance your style.",
+  "officialWebsiteLink": "https://www.yamora.co/",
+  "services": [
+    "Handmade Jewelry",
+    "Personalized Jewelry",
+    "Online Retail"
+  ],
+  "industries": [
+    "Jewelry",
+    "Fashion",
+    "E-Commerce"
+  ],
+  "foundationTitle": "Quality Craftsmanship",
+  "foundationDescription": "We prioritize exceptional craftsmanship and quality in each piece, ensuring customer satisfaction and elegance.",
+  "foundationTitleTwo": "Transparent Pricing",
+  "foundationDescriptionTwo": "Enjoy clear and fair pricing on all products, with a focus on customer trust and satisfaction.",
+  "images": {
+    "logo": "/Image/Yamora_logo.png",
+    "banner": "/Image/Yamora_banner.png",
+    "last": "/Image/Yamora_last.png",
+    "gallery1": "/Image/Yamora_new1.png",
+    "gallery2": "/Image/Yamora_new2.png",
+    "gallery3": "/Image/Yamora_new3.png",
+    "gallery4": "/Image/Yamora_new4.png",
+    "gallery5": "/Image/Yamora_new5.png",
+    "gallery6": "/Image/Yamora_new6.png",
+    "gallery7": "/Image/Yamora_new7.png",
+    "gallery8": "/Image/Yamora_new8.png",
+    "gallery9": "/Image/Yamora_new9.png",
+    "gallery10": "/Image/Yamora_new10.png",
+    "gallery11": "/Image/Yamora_new11.png",
+    "gallery": [
+      "/Image/Yamora_gallery1.png",
+      "/Image/Yamora_gallery2.png"
+    ],
+    "gallery12": [
+      "/Image/Yamora_new5.png",
+      "/Image/Yamora_new6.png"
+    ],
+    "gallery13": [
+      "/Image/Yamora_new7.png",
+      "/Image/Yamora_new8.png"
+    ],
+    "gallery14": [
+      "/Image/Yamora_new9.png",
+      "/Image/Yamora_new10.png"
+    ]
+  },
+  "projectDescription": "Explore a unique collection of fine jewelry including rings, necklaces, and earrings crafted with precision.",
+  "descriptionTitle": "Discover Exquisite Designs",
+  "Descriptiontwo": "Find the perfect symbol of love with our curated jewelry selections.",
+  "descriptionTitleThree": "Elevate Your Style",
+  "Descriptionthree": "Adorn yourself with luxurious jewelry that tells your unique story.",
+  "descriptionTitleFour": "Shop with Confidence",
+  "Descriptionfour": "Experience a hassle-free shopping environment with safe online payments."
+}

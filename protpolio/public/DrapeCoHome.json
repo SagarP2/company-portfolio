@@ -1,0 +1,65 @@
+{
+  "id": 5,
+  "videos": {
+    "banner": "/Videos/drapeco.mp4"
+  },
+  "image": "/Image/drapeco.png",
+  "publishedYear": 2024,
+  "title": "Drapeco Website",
+  "subtitle": "Luxury Drapery and Home Decor",
+  "description": "Drapeco specializes in custom-made curtains, blinds, and window coverings that blend style and functionality, designed to transform spaces into elegant havens.",
+  "officialWebsiteLink": "https://drapeco.com.au/",
+  "services": [
+    "Custom Drapery",
+    "Window Coverings",
+    "Interior Design Consulting"
+  ],
+  "industries": [
+    "Home Goods",
+    "Interior Design",
+    "E-Commerce"
+  ],
+  "foundationTitle": "Transforming Spaces with Style",
+  "foundationDescription": "Drapeco combines premium fabrics and expert craftsmanship to deliver bespoke solutions for any space, enhancing both aesthetics and functionality.",
+  "foundationTitleTwo": "Exquisite Customization",
+  "foundationDescriptionTwo": "Every product is meticulously crafted, allowing customers to personalize their window treatments with a variety of fabrics, styles, and finishes.",
+  "images": {
+    "logo": "/Image/drapeco_logo.png",
+    "banner": "/Image/drapeco_banner.png",
+    "last": "/Image/drapeco_last.png",
+    "gallery1": "/Image/drapeco_new1.png",
+    "gallery2": "/Image/drapeco_new2.png",
+    "gallery3": "/Image/drapeco_new3.png",
+    "gallery4": "/Image/drapeco_new4.png",
+    "gallery5": "/Image/drapeco_new5.png",
+    "gallery6": "/Image/drapeco_new6.png",
+    "gallery7": "/Image/drapeco_new7.png",
+    "gallery8": "/Image/drapeco_new8.png",
+    "gallery9": "/Image/drapeco_new9.png",
+    "gallery10": "/Image/drapeco_new10.png",
+    "gallery11": "/Image/drapeco_new11.png",
+    "gallery": [
+      "/Image/drapeco_gallery1.png",
+      "/Image/drapeco_gallery2.png"
+    ],
+    "gallery12": [
+      "/Image/drapeco_new5.png",
+      "/Image/drapeco_new6.png"
+    ],
+    "gallery13": [
+      "/Image/drapeco_new7.png",
+      "/Image/drapeco_new8.png"
+    ],
+    "gallery14": [
+      "/Image/drapeco_new9.png",
+      "/Image/drapeco_new10.png"
+    ]
+  },
+  "projectDescription": "Drapeco offers an extensive selection of high-quality, made-to-order window treatments that cater to a variety of styles and preferences.",
+  "descriptionTitle": "Elevate Your Interior Design",
+  "Descriptiontwo": "Our products are designed to seamlessly integrate with your home's decor while providing superior functionality.",
+  "descriptionTitleThree": "Unmatched Quality",
+  "Descriptionthree": "We pride ourselves on using the finest materials and craftsmanship, ensuring longevity and beauty in every piece.",
+  "descriptionTitleFour": "Personalized Design Experience",
+  "Descriptionfour": "Our team is dedicated to working with you to create customized solutions that fit your unique style and needs."
+}

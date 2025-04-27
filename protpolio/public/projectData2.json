@@ -1,0 +1,33 @@
+{
+  "id": 1,
+  "image": "/Image/44.png",
+  "publishedYear": 2021,
+  "title": "Sagar Sweets",
+  "subtitle": "Elevating Online Delights to New Heights",
+  "description": "Anand Sweets, a popular Indian sweets brand, wanted to revamp their e-commerce website. aBox, a Shopify web agency, collaborated with them to create a sophisticated Indian sweets Shopify website. Our team worked tirelessly to create a new look and feel for the website that was in keeping with the Sweet Store brand legacy. Over the last three years, aBox Agency has provided user-friendly designs, product ideas, product and content placement, and consultation. We are proud to have been a part of this project.",
+  "officialWebsiteLink": "https://rabbitcode.agency/",
+  "services": [
+    "E-Commerce",
+    "UI/UX",
+    "Visual Identity",
+    "Development",
+    "Onsite SEO",
+    "A/B Testing"
+  ],
+  "industries": [
+    "Sweets And Beverages",
+    "E-Commerce"
+  ],
+  "foundationTitle": "Building the foundation of a tasty brand:",
+  "foundationDescription": "Our technical experts carefully tailored features to suit Anand Sweet's unique needs. They made a smooth online shopping experience and a user-friendly interface to display the variety of delicious offerings.",
+  "images": {
+    "logo": "../Image/Anand_Logo.png",
+    "banner": "../Image/Anand_Logo.png",
+    "gallery": [
+      "./Image/Anand_Logo.png",
+      "./Image/Anand_Logo.png"
+    ]
+   
+  },
+  "ProjectDescription":"Anand Sweets, a popular Indian sweets brand, wanted to revamp their e-commerce website. technical experts carefully tailored features to suit Anand"
+}

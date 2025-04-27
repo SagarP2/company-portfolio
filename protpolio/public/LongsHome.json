@@ -1,0 +1,65 @@
+{
+  "id": 4,
+  "videos": {
+    "banner": "/Videos/longsjewelers.mp4"
+  },
+  "image": "/Image/longsjewelers.png",
+  "publishedYear": 2024,
+  "title": "Long's Jewelers Website",
+  "subtitle": "Luxury Jewelry and Timepieces",
+  "description": "Long's Jewelers is a premier jewelry retailer offering a wide selection of diamonds, engagement rings, and luxury watches, known for exceptional craftsmanship and service.",
+  "officialWebsiteLink": "https://www.longsjewelers.com/",
+  "services": [
+    "Jewelry Retail",
+    "Custom Jewelry Design",
+    "Watch Repair and Servicing"
+  ],
+  "industries": [
+    "Luxury Goods",
+    "E-Commerce",
+    "Jewelry"
+  ],
+  "foundationTitle": "Celebrating Life's Special Moments",
+  "foundationDescription": "Long's Jewelers creates memorable experiences through quality craftsmanship and personalized service, ensuring the perfect piece for every occasion.",
+  "foundationTitleTwo": "A Legacy of Excellence",
+  "foundationDescriptionTwo": "With over 140 years of experience, Long's is committed to offering the finest selection of jewelry and timepieces.",
+  "images": {
+    "logo": "/Image/longsjewelers_logo.png",
+    "banner": "/Image/longsjewelers_banner.png",
+    "last": "/Image/longsjewelers_last.png",
+    "gallery1": "/Image/longsjewelers_new1.png",
+    "gallery2": "/Image/longsjewelers_new2.png",
+    "gallery3": "/Image/longsjewelers_new3.png",
+    "gallery4": "/Image/longsjewelers_new4.png",
+    "gallery5": "/Image/longsjewelers_new5.png",
+    "gallery6": "/Image/longsjewelers_new6.png",
+    "gallery7": "/Image/longsjewelers_new7.png",
+    "gallery8": "/Image/longsjewelers_new8.png",
+    "gallery9": "/Image/longsjewelers_new9.png",
+    "gallery10": "/Image/longsjewelers_new10.png",
+    "gallery11": "/Image/longsjewelers_new11.png",
+    "gallery": [
+      "/Image/longsjewelers_gallery1.png",
+      "/Image/longsjewelers_gallery2.png"
+    ],
+    "gallery12": [
+      "/Image/longsjewelers_new5.png",
+      "/Image/longsjewelers_new6.png"
+    ],
+    "gallery13": [
+      "/Image/longsjewelers_new7.png",
+      "/Image/longsjewelers_new8.png"
+    ],
+    "gallery14": [
+      "/Image/longsjewelers_new9.png",
+      "/Image/longsjewelers_new10.png"
+    ]
+  },
+  "projectDescription": "Long's offers a unique combination of luxury jewelry retail and fine watch selection, ensuring a personalized experience for all customers.",
+  "descriptionTitle": "The Premier Destination for Jewelry",
+  "Descriptiontwo": "Explore an extensive range of engagement rings, wedding bands, and fine jewelry crafted to perfection.",
+  "descriptionTitleThree": "Custom Jewelry Design",
+  "Descriptionthree": "Collaborate with our skilled artisans to create a unique piece that reflects your individual style.",
+  "descriptionTitleFour": "Expert Repair Services",
+  "Descriptionfour": "Long's provides comprehensive repair services to ensure your cherished items remain in excellent condition."
+}

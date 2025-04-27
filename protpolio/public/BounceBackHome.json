@@ -1,0 +1,65 @@
+{
+  "id": 1,
+  "videos": {
+    "banner": "/Videos/bouncebackdrinks.mp4"
+  },
+  "image": "/Image/bouncebackdrinks_updated.png",
+  "publishedYear": 2023,
+  "title": "Bounce Back Recovery Drinks",
+  "subtitle": "Revitalize and Replenish After Social Activities",
+  "description": "Bounce Back is a premium post-social replenishment drink designed to accelerate recovery and restore energy levels with a distinctive blend of 19 active ingredients.",
+  "officialWebsiteLink": "https://bouncebackdrinks.com/",
+  "services": [
+    "Health & Wellness Solutions",
+    "Retail & Online Sales",
+    "E-Commerce Distribution"
+  ],
+  "industries": [
+    "Health & Nutrition",
+    "Functional Beverages",
+    "Wellness & Recovery"
+  ],
+  "foundationTitle": "Refresh & Recharge",
+  "foundationDescription": "Offers comprehensive recovery benefits through an enhanced mix of essential vitamins, minerals, and amino acids, ensuring a refreshing and healthy experience.",
+  "foundationTitleTwo": "Fuel Your Wellbeing",
+  "foundationDescriptionTwo": "Experience the vitality provided by carefully selected natural ingredients that rejuvenate your body and mind after a night out or any physical activity.",
+  "images": {
+    "logo": "/Image/bouncebackdrinks_logo.png",
+    "banner": "/Image/bouncebackdrinks_banner.png",
+    "last": "/Image/bouncebackdrinks_last.png",
+    "gallery1": "/Image/bouncebackdrinks_new1.png",
+    "gallery2": "/Image/bouncebackdrinks_new2.png",
+    "gallery3": "/Image/bouncebackdrinks_new3.png",
+    "gallery4": "/Image/bouncebackdrinks_new4.png",
+    "gallery5": "/Image/bouncebackdrinks_new5.png",
+    "gallery6": "/Image/bouncebackdrinks_new6.png",
+    "gallery7": "/Image/bouncebackdrinks_new7.png",
+    "gallery8": "/Image/bouncebackdrinks_new8.png",
+    "gallery9": "/Image/bouncebackdrinks_new9.png",
+    "gallery10": "/Image/bouncebackdrinks_new10.png",
+    "gallery11": "/Image/bouncebackdrinks_new11.png",
+    "gallery": [
+      "/Image/bouncebackdrinks_gallery1.png",
+      "/Image/bouncebackdrinks_gallery2.png"
+    ],
+    "gallery12": [
+      "/Image/bouncebackdrinks_new5.png",
+      "/Image/bouncebackdrinks_new6.png"
+    ],
+    "gallery13": [
+      "/Image/bouncebackdrinks_new7.png",
+      "/Image/bouncebackdrinks_new8.png"
+    ],
+    "gallery14": [
+      "/Image/bouncebackdrinks_new9.png",
+      "/Image/bouncebackdrinks_new10.png"
+    ]
+  },
+  "projectDescription": "Features a selection of uniquely flavored recovery drinks focused on hydration and a natural energy boost.",
+  "descriptionTitle": "Revitalize with Bounce Back",
+  "Descriptiontwo": "Unlock recovery benefits with a unique formulation of vitamins, minerals, and amino acids for a complete revitalizing experience.",
+  "descriptionTitleThree": "Boost Your Day",
+  "Descriptionthree": "Feel invigorated with our drink, designed to keep you energized and hydrated all day long.",
+  "descriptionTitleFour": "Support Active Lifestyles",
+  "Descriptionfour": "Our formula is perfect for those who lead active lifestyles, providing essential nutrients to support post-activity recovery."
+}

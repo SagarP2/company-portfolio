@@ -1,0 +1,165 @@
+.project-process {
+  display: flex;
+  padding: 50px 0;
+  font-family: Arial, sans-serif;
+  background-color: #0f0f0f; /* Updated background color */
+  color: #ffffff; /* Updated text color */
+}
+.project-card {
+  overflow: hidden;
+}
+.left-side {
+  flex: 1.1;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #0f0f0f; /* Matches the background */
+}
+
+.left-side h1 {
+  font-size: 3rem;
+  font-weight: bold;
+  margin-bottom: 1rem;
+  color: #a78bfa; /* Accent color */
+}
+
+.left-side p {
+  font-size: 1rem;
+  color: #a3a3a3; /* Light grey text */
+  margin-bottom: 2rem;
+}
+
+.logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: 1rem;
+  color: #a3a3a3; /* Updated color */
+}
+
+.right-side {
+  flex: 1;
+  padding: 0 0 0 32px;
+  background-color: #0f0f0f; /* Matches the background */
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+.process-card {
+  max-height: 58vh;
+  overflow-y: auto;
+  max-height: 60vh;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: #8750f7 #0f0f0f;
+}
+.project-process .container {
+  display: flex;
+  justify-content: center;
+}
+.step-card {
+  background-color: hsl(270deg 34.59% 12.4% / 96%); /* Keeps contrast for cards */
+  color: #0f0f0f;
+  cursor: pointer; /* Dark text on light background */
+  border-radius: 8px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  padding: 1.5rem;
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 10px;
+  flex-shrink: 0;
+  margin-right: 20px;
+}
+
+.step-number {
+  font-size: 3rem;
+  font-weight: bold;
+  color: #a78bfa; /* Accent color for numbers */
+  margin-right: 2.5rem;
+  line-height: 1;
+}
+
+.step-content h2 {
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #ffffff; /* Dark color for titles */
+}
+
+.step-content p {
+  font-size: 1rem;
+  color: #ffffff; /* Subtle contrast for text */
+}
+
+.step-card:hover {
+  background: linear-gradient(260deg, #2a1454 0%, #8750f7 100%);
+}
+.step-card:hover .step-number {
+  color: white;
+}
+
+.about-image {
+  width: 100%; /* Adjust as necessary */
+  margin-top: 20px; /* Add spacing if needed */
+  border-radius: 8px; /* Optional for rounded corners */
+  max-width: 450px;
+}
+@media (max-width: 1024px) {
+  .project-process {
+    flex-direction: column;
+    height: auto;
+    padding: 0;
+  }
+
+  .left-side,
+  .right-side {
+    width: 50%;
+    padding: 1rem;
+  }
+  .left-side h1 {
+    font-size: 2rem;
+  }
+  .step-card {
+    flex-direction: column;
+  }
+  .step-number {
+    margin-bottom: 0.5rem;
+  }
+}
+
+/* Animation for hidden steps */
+.project-process .right-side .step-card.hidden-step {
+  opacity: 0;
+  transform: translateY(20px);
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+}
+
+.project-process .right-side .step-card.hidden-step.in-view {
+  opacity: 1;
+  transform: translateY(0);
+}
+@media (max-width: 767px) {
+  .left-side,
+  .right-side {
+    width: 100%;
+    padding: 1rem 1.3rem;
+  }
+  .process-card {
+    max-height: max-content;
+    overflow-y: hidden  ;
+  }
+  .project-process .container {
+    padding: 0;
+  }
+  .step-card {
+    margin-right: 0;
+  }
+}

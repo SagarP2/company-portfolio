@@ -1,0 +1,64 @@
+{
+  "id": 2,
+  "videos": {
+    "banner": "/Videos/toddlersread.mp4"
+  },
+  "image": "/Image/toddlersread.png",
+  "publishedYear": 2024,
+  "title": "Toddlers CAN Read Website",
+  "subtitle": "Early Literacy for Young Children",
+  "description": "Toddlers CAN Read provides a structured, play-based program to teach children reading skills, using videos, lesson plans, and interactive materials.",
+  "officialWebsiteLink": "https://www.toddlersread.com/",
+  "services": [
+    "Education",
+    "Early Literacy Courses",
+    "Teaching Resources"
+  ],
+  "industries": [
+    "Education",
+    "E-Commerce"
+  ],
+  "foundationTitle": "Building Literacy Skills Early",
+  "foundationDescription": "The platform emphasizes a screen-free method, suitable for toddlers to elementary school children, focusing on parental engagement.",
+  "foundationTitleTwo": "Nurturing a Love for Reading",
+  "foundationDescriptionTwo": "Toddlers CAN Read empowers parents to cultivate a lifelong passion for reading in their children through fun, hands-on activities.",
+  "images": {
+    "logo": "/Image/toddlersread_logo.png",
+    "banner": "/Image/toddlersread_banner.png",
+    "last": "/Image/toddlersread_last.png",
+    "gallery1": "/Image/toddlersread_new1.png",
+    "gallery2": "/Image/toddlersread_new2.png",
+    "gallery3": "/Image/toddlersread_new3.png",
+    "gallery4": "/Image/toddlersread_new4.png",
+    "gallery5": "/Image/toddlersread_new5.png",
+    "gallery6": "/Image/toddlersread_new6.png",
+    "gallery7": "/Image/toddlersread_new7.png",
+    "gallery8": "/Image/toddlersread_new8.png",
+    "gallery9": "/Image/toddlersread_new9.png",
+    "gallery10": "/Image/toddlersread_new10.png",
+    "gallery11": "/Image/toddlersread_new11.png",
+    "gallery": [
+      "/Image/toddlersread_gallery1.png",
+      "/Image/toddlersread_gallery2.png"
+    ],
+    "gallery12": [
+      "/Image/toddlersread_new5.png",
+      "/Image/toddlersread_new6.png"
+    ],
+    "gallery13": [
+      "/Image/toddlersread_new7.png",
+      "/Image/toddlersread_new8.png"
+    ],
+    "gallery14": [
+      "/Image/toddlersread_new9.png",
+      "/Image/toddlersread_new10.png"
+    ]
+  },
+  "projectDescription": "Interactive and structured course designed for parents to teach reading through play-based learning.",
+  "descriptionTitle": "Unlock the Joy of Reading",
+  "Descriptiontwo": "Equip your child with essential reading skills through a structured yet fun approach.",
+  "descriptionTitleThree": "Engaging Learning Experience",
+  "Descriptionthree": "Utilize engaging videos and interactive materials to keep your toddler excited about learning.",
+  "descriptionTitleFour": "Support Early Development",
+  "Descriptionfour": "Our method is designed to support toddlers and young children in developing strong literacy skills."
+}

@@ -1,0 +1,65 @@
+{
+  "id": 6,
+  "videos": {
+    "banner": "/Videos/areahome.mp4"
+  },
+  "image": "/Image/areahome.png",
+  "publishedYear": 2024,
+  "title": "Area Home Website",
+  "subtitle": "Luxury Home Goods",
+  "description": "AREA is a premier bedding and home accessories company offering a wide selection of quality products designed for comfort and style, rooted in Scandinavian design traditions.",
+  "officialWebsiteLink": "https://areahome.com/",
+  "services": [
+    "Bedding Products",
+    "Home Accessories",
+    "Interior Design Consultation"
+  ],
+  "industries": [
+    "Home Goods",
+    "E-Commerce",
+    "Bedding"
+  ],
+  "foundationTitle": "Emphasizing Quality and Functionality",
+  "foundationDescription": "Each product is crafted from natural fibers, combining aesthetic appeal with practicality for a beautiful and comfortable home environment.",
+  "foundationTitleTwo": "Sustainable Luxury",
+  "foundationDescriptionTwo": "AREA focuses on originality and sustainability, ensuring that each item not only looks great but also stands the test of time.",
+  "images": {
+    "logo": "/Image/areahome_logo.png",
+    "banner": "/Image/areahome_banner.png",
+    "last": "/Image/areahome_last.png",
+    "gallery1": "/Image/areahome_new1.png",
+    "gallery2": "/Image/areahome_new2.png",
+    "gallery3": "/Image/areahome_new3.png",
+    "gallery4": "/Image/areahome_new4.png",
+    "gallery5": "/Image/areahome_new5.png",
+    "gallery6": "/Image/areahome_new6.png",
+    "gallery7": "/Image/areahome_new7.png",
+    "gallery8": "/Image/areahome_new8.png",
+    "gallery9": "/Image/areahome_new9.png",
+    "gallery10": "/Image/areahome_new10.png",
+    "gallery11": "/Image/areahome_new11.png",
+    "gallery": [
+      "/Image/areahome_gallery1.png",
+      "/Image/areahome_gallery2.png"
+    ],
+    "gallery12": [
+      "/Image/areahome_new5.png",
+      "/Image/areahome_new6.png"
+    ],
+    "gallery13": [
+      "/Image/areahome_new7.png",
+      "/Image/areahome_new8.png"
+    ],
+    "gallery14": [
+      "/Image/areahome_new9.png",
+      "/Image/areahome_new10.png"
+    ]
+  },
+  "projectDescription": "Explore a range of beautiful bedding and accessories designed to create a serene and stylish home atmosphere.",
+  "descriptionTitle": "Quality Bedding Solutions",
+  "Descriptiontwo": "AREA offers a diverse selection of bedding products made from the finest natural materials for ultimate comfort.",
+  "descriptionTitleThree": "Endless Design Possibilities",
+  "Descriptionthree": "With a focus on original designs, our products create endless possibilities for styling your home.",
+  "descriptionTitleFour": "Sustainability Meets Design",
+  "Descriptionfour": "AREA is committed to environmentally-friendly practices, ensuring all products are made with sustainable materials."
+}

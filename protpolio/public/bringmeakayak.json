@@ -1,0 +1,65 @@
+{
+  "id": 7,
+  "videos": {
+    "banner": "/Videos/bringmeakayak.mp4"
+  },
+  "image": "/Image/bringmeakayak.png",
+  "publishedYear": 2024,
+  "title": "Bring Me A Kayak Website",
+  "subtitle": "Kayak Rentals and Adventures in Hawaii",
+  "description": "Bring Me A Kayak offers top-quality kayak and paddleboard rentals in Maui, Kauai, and Oahu, providing everything needed for a memorable day on the water, including delivery to your location.",
+  "officialWebsiteLink": "https://www.bringmeakayak.com/",
+  "services": [
+    "Kayak Rentals",
+    "Paddleboard Rentals",
+    "Snorkeling Gear Rental"
+  ],
+  "industries": [
+    "Recreation",
+    "Outdoor Activities",
+    "Tourism"
+  ],
+  "foundationTitle": "Adventure Awaits",
+  "foundationDescription": "Explore Hawaii's stunning coastlines and hidden gems with our reliable kayak and paddleboard rentals.",
+  "foundationTitleTwo": "Seamless Experience",
+  "foundationDescriptionTwo": "We provide on-time delivery, quality equipment, and everything you need for a safe and enjoyable adventure.",
+  "images": {
+    "logo": "/Image/bringmeakayak_logo.png",
+    "banner": "/Image/bringmeakayak_banner.png",
+    "last": "/Image/bringmeakayak_last.png",
+    "gallery1": "/Image/bringmeakayak_new1.png",
+    "gallery2": "/Image/bringmeakayak_new2.png",
+    "gallery3": "/Image/bringmeakayak_new3.png",
+    "gallery4": "/Image/bringmeakayak_new4.png",
+    "gallery5": "/Image/bringmeakayak_new5.png",
+    "gallery6": "/Image/bringmeakayak_new6.png",
+    "gallery7": "/Image/bringmeakayak_new7.png",
+    "gallery8": "/Image/bringmeakayak_new8.png",
+    "gallery9": "/Image/bringmeakayak_new9.png",
+    "gallery10": "/Image/bringmeakayak_new10.png",
+    "gallery11": "/Image/bringmeakayak_new11.png",
+    "gallery": [
+      "/Image/bringmeakayak_gallery1.png",
+      "/Image/bringmeakayak_gallery2.png"
+    ],
+    "gallery12": [
+      "/Image/bringmeakayak_new5.png",
+      "/Image/bringmeakayak_new6.png"
+    ],
+    "gallery13": [
+      "/Image/bringmeakayak_new7.png",
+      "/Image/bringmeakayak_new8.png"
+    ],
+    "gallery14": [
+      "/Image/bringmeakayak_new9.png",
+      "/Image/bringmeakayak_new10.png"
+    ]
+  },
+  "projectDescription": "Bring Me A Kayak is dedicated to providing the best kayaking and paddleboarding experience, offering an extensive range of equipment and flexible rental options.",
+  "descriptionTitle": "Your Gateway to Ocean Adventures",
+  "Descriptiontwo": "Discover the beauty of Hawaii's waters with our easy-to-use kayak and paddleboard rentals.",
+  "descriptionTitleThree": "Explore Diverse Locations",
+  "Descriptionthree": "From calm rivers to stunning coastlines, we cater to all adventurers, whether you're a beginner or an experienced paddler.",
+  "descriptionTitleFour": "Safety First",
+  "Descriptionfour": "We ensure that every rental includes life jackets, paddles, and all necessary safety equipment for a worry-free experience."
+}

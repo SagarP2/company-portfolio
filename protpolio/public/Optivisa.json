@@ -1,0 +1,65 @@
+{
+  "id": 8,
+  "videos": {
+    "banner": "/Videos/optivisa.mp4"
+  },
+  "image": "/Image/optivisa.png",
+  "publishedYear": 2024,
+  "title": "Optivisa Website",
+  "subtitle": "Centro de Especialidades Visuales",
+  "description": "Optivisa provides comprehensive eye care services, including visual analysis and specialized therapies to enhance visual health.",
+  "officialWebsiteLink": "https://optivisa.com.mx/",
+  "services": [
+    "Visual Analysis",
+    "Contact Lens Fitting",
+    "Vision Therapy"
+  ],
+  "industries": [
+    "Healthcare",
+    "Optometry",
+    "Eye Care"
+  ],
+  "foundationTitle": "Transform Your Vision",
+  "foundationDescription": "At Optivisa, we believe that eye care should be a personalized experience, utilizing advanced technology for effective results.",
+  "foundationTitleTwo": "Experience and Innovation",
+  "foundationDescriptionTwo": "With over 40 years of experience, we focus on providing high-quality, innovative eye care solutions tailored to individual needs.",
+  "images": {
+    "logo": "/Image/optivisa_logo.png",
+    "banner": "/Image/optivisa_banner.png",
+    "last": "/Image/optivisa_last.png",
+    "gallery1": "/Image/optivisa_new1.png",
+    "gallery2": "/Image/optivisa_new2.png",
+    "gallery3": "/Image/optivisa_new3.png",
+    "gallery4": "/Image/optivisa_new4.png",
+    "gallery5": "/Image/optivisa_new5.png",
+    "gallery6": "/Image/optivisa_new6.png",
+    "gallery7": "/Image/optivisa_new7.png",
+    "gallery8": "/Image/optivisa_new8.png",
+    "gallery9": "/Image/optivisa_new9.png",
+    "gallery10": "/Image/optivisa_new10.png",
+    "gallery11": "/Image/optivisa_new11.png",
+    "gallery": [
+      "/Image/optivisa_gallery1.png",
+      "/Image/optivisa_gallery2.png"
+    ],
+    "gallery12": [
+      "/Image/optivisa_new5.png",
+      "/Image/optivisa_new6.png"
+    ],
+    "gallery13": [
+      "/Image/optivisa_new7.png",
+      "/Image/optivisa_new8.png"
+    ],
+    "gallery14": [
+      "/Image/optivisa_new9.png",
+      "/Image/optivisa_new10.png"
+    ]
+  },
+  "projectDescription": "Optivisa offers a holistic approach to eye care, ensuring optimal visual health through personalized assessments and treatments.",
+  "descriptionTitle": "Comprehensive Eye Care",
+  "Descriptiontwo": "Our visual analysis evaluates every aspect of your vision to provide tailored solutions for your needs.",
+  "descriptionTitleThree": "Advanced Technologies",
+  "Descriptionthree": "We utilize cutting-edge equipment to deliver precise diagnoses and effective treatments.",
+  "descriptionTitleFour": "Patient-Centered Approach",
+  "Descriptionfour": "Your vision is our mission; we focus on delivering an exceptional patient experience in a welcoming environment."
+}

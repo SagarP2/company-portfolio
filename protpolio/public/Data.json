@@ -1,0 +1,89 @@
+{
+    "projects": [
+      {
+        "id": 1,
+        "image": "/Image/bounce-back.png",
+        "title": "Bounce Back Drinks",
+        "type": "E-Commerce",
+        "link": "/bouncebackhome"
+      },
+      {
+        "id": 2,
+        "image": "/Image/toddlers-can-read.png",
+        "title": "Toddlers CAN Read",
+        "type": "UI Design",
+        "link": "/toddlercanread"
+      },
+      {
+        "id": 3,
+        "image": "/Image/signorvino.png",
+        "title": "SignorVino",
+        "type": "Branding",
+        "link": "/signorvinohome"
+      },
+      {
+        "id": 4,
+        "image": "/Image/longsjewelers.png",
+        "title": "Long's Jewelers",
+        "type": "Branding",
+        "link": "/longshome"
+      },
+      {
+        "id": 5,
+        "image": "/Image/drapeco.png",
+        "title": "Drapeco",
+        "type": "UI Design",
+        "link": "/drapecohome"
+      },
+      {
+        "id": 6,
+        "image": "/Image/areahome.png",
+        "title": "Area Home",
+        "type": "E-Commerce",
+        "link": "/coolssheetshome"
+      },
+      {
+        "id": 7,
+        "image": "/Image/bringmeakayak.png",
+        "title": "Bring Me A Kayak",
+        "type": "UI Design",
+        "link": "/bringmeakayak"
+      },
+      {
+        "id": 8,
+        "image": "/Image/Optivisa.png",
+        "title": "Optivisa",
+        "type": "Branding",
+        "link": "/optivisa"
+      },
+      {
+        "id": 9,
+        "image": "/Image/Latitude.png",
+        "title": "Latitude",
+        "type": "Custom Development",
+        "link": "/latitude"
+      },
+      {
+        "id": 10,
+        "image": "/Image/DivinityFashion.png",
+        "title": "Divinity Fashion",
+        "type": "Branding",
+        "link": "/divinityfashion"
+      },
+      {
+        "id": 11,
+        "image": "/Image/RoyalTail.png",
+        "title": "Royal Tail",
+        "type": "UI Design",
+        "link": "/royaltail"
+      },
+      {
+        "id": 12,
+        "image": "/Image/Yamora.png",
+        "title": "Yamora",
+        "type": "E-Commerce",
+        "link": "/yamora"
+      }
+    ]
+  }
+  

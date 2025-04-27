@@ -1,0 +1,44 @@
+[
+  {
+    "id": 4,
+    "title": "Long's Jewelers",
+    "description": "Traditional Indian Sweets: A Taste of Royal India",
+    "services": ["Shopify", "UI/UX", "SEO"],
+    "image": "/Image/44.png" 
+  },
+  {
+    "id": 5,
+    "title": "Signorvino",
+    "description": "Ayurvedic Health and Stamina Supplements",
+    "services": ["Shopify", "UI/UX", "Graphic Designing"],
+    "image": "/Image/55.png"
+  },
+  {
+    "id": 6,
+    "title": "Toddlers can read",
+    "description": "Ayurvedic Health and Stamina Supplements",
+    "services": ["Shopify", "UI/UX", "Graphic Designing"],
+    "image": "/Image/66.png"
+  },
+  {
+    "id": 1,
+    "title": "Kauai Rentals",
+    "description": "Traditional Indian Sweets: A Taste of Royal India",
+    "services": ["Shopify", "UI/UX", "SEO"],
+    "image": "/Image/11.png"
+  },
+  {
+    "id": 2,
+    "title": "Area",
+    "description": "Ayurvedic Health and Stamina Supplements",
+    "services": ["Shopify", "UI/UX", "Graphic Designing"],
+    "image": "/Image/22.png"
+  },
+  {
+    "id": 3,
+    "title": "DrapeCo",
+    "description": "Ayurvedic Health and Stamina Supplements",
+    "services": ["Shopify", "UI/UX", "Graphic Designing"],
+    "image": "/Image/33.png"
+  }
+]

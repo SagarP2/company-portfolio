@@ -1,0 +1,65 @@
+{
+    "id": 9,
+    "videos": {
+        "banner": "/Videos/latitudeexport.mp4"
+    },
+    "image": "/Image/Latitude.png",
+    "publishedYear": 2024,
+    "title": "Latitude Exports",
+    "subtitle": "Organic Products Supplier",
+    "description": "Latitude Exports specializes in supplying a variety of organic products including spices, pulses, seeds, and cereals, all grown without synthetic pesticides or GMOs.",
+    "officialWebsiteLink": "https://latitudeexports.com/",
+    "services": [
+        "Fast International Shipping",
+        "Stock Availability",
+        "Organic Product Sourcing"
+    ],
+    "industries": [
+        "Organic Food",
+        "Agriculture",
+        "Export"
+    ],
+    "foundationTitle": "Sustainable Agriculture",
+    "foundationDescription": "Committed to promoting sustainable farming practices that protect the environment and support organic food production.",
+    "foundationTitleTwo": "Quality Assurance",
+    "foundationDescriptionTwo": "All products are carefully sourced and undergo strict quality checks to ensure premium quality.",
+    "images": {
+        "logo": "/Image/Latitude_logo.png",
+        "banner": "/Image/Latitude_banner.png",
+        "last": "/Image/Latitude_last.png",
+        "gallery1": "/Image/Latitude_new1.png",
+        "gallery2": "/Image/Latitude_new2.png",
+        "gallery3": "/Image/Latitude_new3.png",
+        "gallery5": "/Image/Latitude_new4.png",
+        "gallery4": "/Image/Latitude_new5.png",
+        "gallery6": "/Image/Latitude_new6.png",
+        "gallery7": "/Image/Latitude_new7.png",
+        "gallery8": "/Image/Latitude_new8.png",
+        "gallery9": "/Image/Latitude_new9.png",
+        "gallery10": "/Image/Latitude_new10.png",
+        "gallery11": "/Image/Latitude_new11.png",
+        "gallery": [
+            "/Image/Latitude_gallery1.png",
+            "/Image/Latitude_gallery2.png"
+        ],
+        "gallery12": [
+            "/Image/Latitude_new5.png",
+            "/Image/Latitude_new6.png"
+        ],
+        "gallery13": [
+            "/Image/Latitude_new7.png",
+            "/Image/Latitude_new8.png"
+        ],
+        "gallery14": [
+            "/Image/Latitude_new9.png",
+            "/Image/Latitude_new10.png"
+        ]
+    },
+    "projectDescription": "A reliable supplier of organic spices, pulses, seeds, and cereals, focusing on quality and sustainability.",
+    "descriptionTitle": "Explore Our Products",
+    "Descriptiontwo": "Discover a wide range of organic products tailored to promote healthy living.",
+    "descriptionTitleThree": "Global Reach",
+    "Descriptionthree": "Serving international markets with fast shipping and comprehensive service.",
+    "descriptionTitleFour": "Healthy Choices",
+    "Descriptionfour": "Supporting a healthier lifestyle with organic and sustainably sourced products."
+}
