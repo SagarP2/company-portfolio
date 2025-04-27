@@ -29,10 +29,7 @@ const Footer = () => {
                     <span>
                       <img src={footeremail} alt="Logo" />{" "}
                     </span>
-                    <a
-                      href="mailto:hi@abox.agency"
-                      className="contact-email"
-                    >
+                    <a href="mailto:hi@abox.agency" className="contact-email">
                       hello@sedulousinfosys.com
                     </a>
                   </div>
@@ -111,13 +108,25 @@ const Footer = () => {
             <span>
               All © 2024 RabbitCode. All Rights Reserved by RabbitCode.
             </span>
-            {/* 
+
             <div className="powerby">
-              <span>Powered by RabbitCode</span>
-              <Link to="HeroSection" smooth={true} duration={500}>
-                <img src={logo} alt="Logo" />
-              </Link>
-            </div> */}
+              <span>
+              Design and Development by &nbsp;
+              <a
+                className="contact-email"
+                href="https://princeportfolio-6yav7ijxn-priyanshupatel1253-gmailcoms-projects.vercel.app/"
+              >
+                Priyanshu Patel
+              </a>{" "}
+              &nbsp; & &nbsp;
+              <a
+                className="contact-email"
+                href="https://sagarp2.github.io/SagarPanchal/"
+              >
+                Sagar Panchal
+              </a>
+              </span>
+            </div>
             <div className="made-with-love">
               <span>Made with 💜</span>
             </div>
